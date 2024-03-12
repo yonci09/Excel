@@ -1,5 +1,5 @@
 
-# Using Pivot tables in Excel 
+# Data Analysis with Excel Pivot Tables
 
 As a part of my Udemy course "Microsoft Excel: Data Analysis with Excel Pivot Tables," I have honed my expertise in leveraging the power of Excel Pivot Tables to extract valuable insights, streamline data analysis processes, and make informed decisions with precision and efficiency.
 
